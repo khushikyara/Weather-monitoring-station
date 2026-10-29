@@ -55,6 +55,3 @@ The online simulation successfully displayed sensor readings in the Serial Monit
 
 This project was developed and tested in simulation using Wokwi. The displayed readings are simulated values and do not represent actual outdoor weather measurements.
 
-👩‍💻 Author
-
-Khushi Kumari
