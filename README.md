@@ -57,7 +57,7 @@ The online simulation successfully displayed sensor readings in the Serial Monit
 |---|---|
 | 13030824026 | Hardik Raj |
 | 13030824027 | Jeeya Ranjan |
-| 13030824028 | Jiya Singha |
+| 13030824028 | Jiya Sinha |
 | 13030824029 | Khushi Kumari |
 | 13030824030 | Krishna Gupta |
 
